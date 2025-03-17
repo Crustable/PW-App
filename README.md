@@ -2,15 +2,15 @@
 
 ## How to push you changes to GitHub
 
-Для того, чтобы сделать изменения в проекте, необходимо сделать следующие шаги:  
-1. Создать fork (вилку) проекта ChurchAppLife в своём профиле.  
-2. Склонировать проект в папку на локальном компьютере.  
-3. Создать и войти в brunch (ветку) проекта на локальном компьютере.  
-4. Внести изменения в проект.  
-5. Add (добавить) изменённые файлы, commit (зафиксировать) изменения и добавить комментарии.  
-6. Push (затолкнуть) проект в свой профиль.  
-7. Сделать Pull Request своих изменений в общий проект.  
-8. Радоваться проделанной работе.  
+To make changes to a project, you need to take the following steps:
+1. Create a fork of the ChurchAppLife project in your profile.
+2. Clone the project to a folder on your local computer.
+3. Create and enter a project brunch on your local computer.
+4. Make changes to the project.
+5. Add modified files, commit changes and add comments.
+6. Push the project to your profile.
+7. Make a Pull Request for your changes to the shared project.
+8. Be happy with the work done.
 ***
 ### 1. Создать fork (вилку) проекта ChurchAppLife в своём профиле.  
 Зайдите в общий проект ChristianITCommunity/ChurchLifeApp  
